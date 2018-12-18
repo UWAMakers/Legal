@@ -2,6 +2,16 @@
 
 This document outlines the procedures on how a document in _UWA Makers Group_ (hereforth *Makers*) are created and approved.
 
+**Champion:** *Campbell Millar (22510848)*
+
+**Classification:** *Red*
+
+**Current Revision**: *Draft - 1*
+
+|     Champion      | Date of Revison | Revison Number | Description                                                  |
+| :---------------: | :-------------: | :------------: | ------------------------------------------------------------ |
+| *Campbell Millar* |   18/12/2018    |  *Draft - 1*   | Initial creation of the document and build out of the document. Awaiting approval from the committee. |
+
 ## Definitions
 
 1. Document;
@@ -115,7 +125,7 @@ This document outlines the procedures on how a document in _UWA Makers Group_ (h
 2. Use of a Wiki should be for a way to redirect users to the relevent published documents
 ## Flow for Documentation
 
-Below is a diagram showing the flow for a document and descriptions of each step. The descriptions are not binding (where as the above document is) and is only for ease of understanding. 
+Below is a diagram showing the flow for a document and descriptions of each step. The descriptions are not binding (where as the above policy is) and is only for ease of understanding. 
 
 ```mermaid
 graph TD;
